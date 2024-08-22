@@ -18,7 +18,7 @@ Get-NetIPV4Protocol
 Get-NetIPV6Protocol
 ```
  
-## Obtain inforamtion about Bet Firewall profile
+## Obtain information about Net Firewall profile
 ```
 Get-NetFirewallProfile
 ```
