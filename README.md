@@ -5,6 +5,8 @@
 
 `Get-NetAdapterHardwareInfo `
 
+## Obtaining the IP version of a network adapter
+`(Get-NetIPInterface) | Select-Object InterfaceAlias,AddressFamily
 
 
 
