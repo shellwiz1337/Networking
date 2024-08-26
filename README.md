@@ -31,3 +31,13 @@ Get-NetTCPConnection
 ```
 Get-NetUDPEndPoint
 ```
+
+## Get the TCP settings 
+```
+Get-NetTCPSetting
+```
+## Get Information about the  TCP Ports
+```
+Get-NetTCPConnection
+```
+
