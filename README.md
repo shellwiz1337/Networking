@@ -46,7 +46,7 @@ Get-NetTCPConnection
 ```
 ## Get Information about the UDP Ports
 ```
-Get-NetUDPEndPoint).LocalPort
+(Get-NetUDPEndPoint).LocalPort
 ```
 ## Get Information about DNS
 ```
