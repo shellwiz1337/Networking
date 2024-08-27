@@ -44,11 +44,11 @@ Get-NetUDPSetting
 ```
 Get-NetTCPConnection
 ```
-## Get Inforamtion about the UDP Ports
+## Get Information about the UDP Ports
 ```
 Get-NetUDPEndPoint).LocalPort
 ```
-## Get Inforamtion about DNS
+## Get Information about DNS
 ```
 Get-DnsClient
 ```
