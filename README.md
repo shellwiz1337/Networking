@@ -36,8 +36,20 @@ Get-NetUDPEndPoint
 ```
 Get-NetTCPSetting
 ```
+## Get the UDP settings
+```
+Get-NetUDPSetting
+```
 ## Get Information about the  TCP Ports
 ```
 Get-NetTCPConnection
 ```
-
+## Get Inforamtion about the UDP Ports
+```
+Get-NetUDPEndPoint).LocalPort
+```
+## Get Inforamtion about DNS
+```
+Get-DnsClient
+```
+### 
