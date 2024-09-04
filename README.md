@@ -52,4 +52,17 @@ Get-NetTCPConnection
 ```
 Get-DnsClient
 ```
-### 
+## Obtain ARP cache
+```
+Get-NetNeighbor
+```
+## Obtain the IP Route Information from the IP Routing Table
+```
+Get-NetRoute
+```
+## Listing the Status of the Interfaces in a Switch
+```
+Entering the <ip> address and <port> in putty ssh clinet and connection type .
+When terminal windoes ids prompted, enter the en to enter into the command mode and shoe interfaces status .
+```
+
